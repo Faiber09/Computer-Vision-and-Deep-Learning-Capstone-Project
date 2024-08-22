@@ -34,3 +34,11 @@ By leveraging a pre-trained model and fine-tuning it for the specific task of cr
 - **Communicating Outcomes:**
 The outcomes of this deep learning project, including the model’s performance metrics and error analysis, were presented in a structured manner. This ability to communicate results is essential for conveying the value and limitations of AI models to stakeholders.
 
+## Extra
+
+Inside this folder we can find some jupyter notebook files containing:
+
+1. A Deep Learning model using keras for concrete strenght prediction.
+2. A convolutional neural network for Fashion-MNIST dataset classification.
+3. Restricted 
+
