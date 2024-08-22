@@ -39,6 +39,8 @@ The outcomes of this deep learning project, including the model’s performance 
 Inside this folder we can find some jupyter notebook files containing:
 
 1. A Deep Learning model using keras for concrete strenght prediction.
-2. A convolutional neural network for Fashion-MNIST dataset classification.
-3. Restricted 
+2. A convolutional neural network in Pytorch for Fashion-MNIST dataset classification.
+3. Restricted Boltzman Machines in Tensorflow for MNIST dataset reconstruction.
+4. Autoencoders in TensorFlow for Feature Extraction and Dimensionality Reduction using MNIST dataset.
+5. LSTM (Long Short Term Memory) in Tensorflow for Language Modelling.
 
