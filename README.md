@@ -36,11 +36,9 @@ The outcomes of this deep learning project, including the model’s performance 
 
 ## Extra
 
-Inside this folder, you will find several Jupyter notebook files, including:
+Inside this folder, you will find several Jupyter notebook files from the final assignments of various topics studied during the certification program. While they are not part of the project itself, these assignments were crucial for understanding various technical aspects during the project, including:
 
-1. A Deep Learning Model using Keras for predicting concrete strength.
-2. A Convolutional Neural Network (CNN) implemented in PyTorch for classifying the Fashion-MNIST dataset.
-3. Restricted Boltzmann Machines (RBMs) in TensorFlow for reconstructing the MNIST dataset.
-4. Autoencoders in TensorFlow for feature extraction and dimensionality reduction using the MNIST dataset.
-5. LSTM (Long Short-Term Memory) networks in TensorFlow for language modeling.
-
+1. A Convolutional Neural Network (CNN) implemented in PyTorch for classifying the Fashion-MNIST dataset.
+2. Restricted Boltzmann Machines (RBMs) in TensorFlow for reconstructing the MNIST dataset.
+3. Autoencoders in TensorFlow for feature extraction and dimensionality reduction using the MNIST dataset.
+4. LSTM (Long Short-Term Memory) networks in TensorFlow for language modeling.
